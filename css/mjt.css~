@@ -166,3 +166,6 @@ a:focus {
     white-space: nowrap;
 }
 
+.hint {
+    visibility: hidden;
+}
